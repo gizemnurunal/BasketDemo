@@ -7,7 +7,7 @@ Microservices mimari ile istenilen ürünlerin sepete atılmasını gerçekleşt
 
 Proje .Net 5 ve Docker'a ihtiyaç duymaktadır. Dockerda container ayağa kalktıktan sonra projeyi çalıştırınca db otomatik olarak oluşturulmaktadır.
 
--Projenin klasörüne bir komut işlemci ile gidildikten sonra docker-compose up --detach kodu çalıştırılmalıdır.
+- Projenin klasörüne bir komut işlemci ile gidildikten sonra docker-compose up --detach kodu çalıştırılmalıdır.
 
 
 
