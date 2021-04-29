@@ -1,0 +1,15 @@
+C:\Project\ECommerce\Services\Catalog\Application\bin\Debug\net5.0\Services.Catalog.Application.deps.json
+C:\Project\ECommerce\Services\Catalog\Application\bin\Debug\net5.0\Services.Catalog.Application.dll
+C:\Project\ECommerce\Services\Catalog\Application\bin\Debug\net5.0\ref\Services.Catalog.Application.dll
+C:\Project\ECommerce\Services\Catalog\Application\bin\Debug\net5.0\Services.Catalog.Application.pdb
+C:\Project\ECommerce\Services\Catalog\Application\bin\Debug\net5.0\Services.Catalog.Core.dll
+C:\Project\ECommerce\Services\Catalog\Application\bin\Debug\net5.0\Services.Catalog.Core.pdb
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.csprojAssemblyReference.cache
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.AssemblyInfoInputs.cache
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.AssemblyInfo.cs
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.csproj.CoreCompileInputs.cache
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.csproj.CopyComplete
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.dll
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\ref\Services.Catalog.Application.dll
+C:\Project\ECommerce\Services\Catalog\Application\obj\Debug\net5.0\Services.Catalog.Application.pdb

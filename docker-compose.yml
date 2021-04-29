@@ -1,0 +1,8 @@
+version: "3.8"
+services: 
+  catalogdb:
+    image: mongo
+  basketdb:
+    image: redis
+volumes:
+  catalogdb_volume:

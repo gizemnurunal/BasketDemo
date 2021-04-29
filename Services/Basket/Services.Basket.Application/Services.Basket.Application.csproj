@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.37.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Catalog\Services.Catalog.Grpc\Services.Catalog.Grpc.csproj" />
+    <ProjectReference Include="..\Services.Basket.Core\Services.Basket.Core.csproj" />
+  </ItemGroup>
+  
+</Project>

@@ -1,0 +1,15 @@
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\bin\Debug\net5.0\Services.Catalog.Infrastructure.deps.json
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\bin\Debug\net5.0\Services.Catalog.Infrastructure.dll
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\bin\Debug\net5.0\ref\Services.Catalog.Infrastructure.dll
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\bin\Debug\net5.0\Services.Catalog.Infrastructure.pdb
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\bin\Debug\net5.0\Services.Catalog.Core.dll
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\bin\Debug\net5.0\Services.Catalog.Core.pdb
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.csprojAssemblyReference.cache
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.AssemblyInfo.cs
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.csproj.CopyComplete
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.dll
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\ref\Services.Catalog.Infrastructure.dll
+C:\Project\ECommerce\Services\Catalog\Services.Catalog.Infrastructure\obj\Debug\net5.0\Services.Catalog.Infrastructure.pdb

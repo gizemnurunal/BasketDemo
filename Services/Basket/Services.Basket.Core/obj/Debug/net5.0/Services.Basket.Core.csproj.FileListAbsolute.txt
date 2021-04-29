@@ -1,0 +1,12 @@
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\bin\Debug\net5.0\Services.Basket.Core.deps.json
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\bin\Debug\net5.0\Services.Basket.Core.dll
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\bin\Debug\net5.0\ref\Services.Basket.Core.dll
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\bin\Debug\net5.0\Services.Basket.Core.pdb
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.csprojAssemblyReference.cache
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.AssemblyInfoInputs.cache
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.AssemblyInfo.cs
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.csproj.CoreCompileInputs.cache
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.dll
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\ref\Services.Basket.Core.dll
+C:\Project\ECommerce\Services\Basket\Services.Basket.Core\obj\Debug\net5.0\Services.Basket.Core.pdb

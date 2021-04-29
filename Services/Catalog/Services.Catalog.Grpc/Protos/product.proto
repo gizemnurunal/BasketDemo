@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "Services.Catalog.Grpc.Protos";
+
+service ProductProtoService {
+
+	rpc CheckStock (BasketItemRequest) returns (ProductResponse);
+}
+message BasketItemRequest {
+    repeated BasketItemDto basketItems = 1;
+}
+message BasketItemDto {
+  string productId = 1;
+  int32 quantity = 2;
+}
+message ProductResponse {
+   repeated ProductDto products = 1;
+}
+
+message ProductDto {
+	string id = 1;
+	string name = 2;
+	string description = 3;
+	double price = 4;
+	int32 unitsInStock = 5;
+}

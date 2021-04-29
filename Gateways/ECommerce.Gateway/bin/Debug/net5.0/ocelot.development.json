@@ -1,0 +1,58 @@
+{
+	"Routes": [
+		{
+			"DownstreamPathTemplate": "/api/{everything}",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": 5012
+				}
+			],
+			"UpstreamPathTemplate": "/services/catalog/{everything}",
+			"UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+			"UpstreamScheme": "http",
+			"SwaggerKey": "catalog"
+
+		},
+		{
+			"DownstreamPathTemplate": "/api/{everything}",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": 5014
+				}
+			],
+			"UpstreamPathTemplate": "/services/basket/{everything}",
+			"UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+			"UpstreamScheme": "http",
+			"SwaggerKey": "basket"
+		}
+	],
+	"GlobalConfiguration": {
+		"BaseUrl": "http://localhost:5000"
+	},
+	"SwaggerEndPoints": [
+		{
+			"Key": "catalog",
+			"Config": [
+				{
+					"Name": "Catalog API",
+					"Version": "v1",
+					"Url": "http://localhost:5012/swagger/v1/swagger.json"
+				}
+			]
+		},
+		{
+			"Key": "basket",
+			"Config": [
+				{
+					"Name": "Basket API",
+					"Version": "v1",
+					"Url": "http://localhost:5014/swagger/v1/swagger.json"
+				}
+			]
+		}
+	]
+}
